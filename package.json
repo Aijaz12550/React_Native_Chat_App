@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^33.0.0",
+    "expo-facebook": "^6.0.0",
+    "firebase": "^6.3.1",
+    "react": "16.6.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-navigation": "^3.11.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.1.1"
+  },
+  "name": "Record",
+  "version": "0.0.0",
+  "description": "Hear me now.",
+  "author": null,
+  "private": true,
+  "expo": {
+    "name": "Record",
+    "description": "Hear me now.",
+    "slug": "record",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/icon.png",
+    "loading": {
+      "hideExponentText": false,
+      "icon": "./assets/icons/icon.png"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "mp3"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

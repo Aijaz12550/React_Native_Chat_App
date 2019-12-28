@@ -1,0 +1,24 @@
+{
+    "expo": {
+      "name": "Record",
+      "description": "Hear me now.",
+      "slug": "record",
+      "privacy": "public",
+      "sdkVersion": "27.0.0",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "primaryColor": "#cccccc",
+      "icon": "./assets/icons/icon.png",
+      "loading": {
+        "hideExponentText": false,
+        "icon": "./assets/icons/icon.png"
+      },
+      "packagerOpts": {
+        "assetExts": ["ttf", "mp4", "mp3"]
+      },
+      "ios": {
+        "supportsTablet": true
+      }
+    }
+  }
+  
