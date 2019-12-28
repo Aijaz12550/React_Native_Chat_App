@@ -2,7 +2,7 @@ import * as firebase from 'firebase'
 import 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBHcTkGUmNUjQvEASaXasvWUiE2dNGAPdg",
+    apiKey: "",
     authDomain: "food-delivery23.firebaseapp.com",
     databaseURL: "https://food-delivery23.firebaseio.com",
     projectId: "food-delivery23",
