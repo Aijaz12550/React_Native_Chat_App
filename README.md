@@ -1,6 +1,10 @@
 # React_Native_Chat_App
 This chat app is created by using React Native expo and firebase. In this App user can send share text, video, location and picture and also can record voice.
 
+_#Some ScreenShots of the App_
+_### 1.Login Screen_
+![](github_images/)
+
 ## How to run?
 * Download and clone the code.
 * Install React Native expo .
