@@ -2,20 +2,20 @@ import * as firebase from 'firebase'
 import 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBHcTkGUmNUjQvEASaXasvWUiE2dNGAPdg",
-    authDomain: "food-delivery23.firebaseapp.com",
-    databaseURL: "https://food-delivery23.firebaseio.com",
-    projectId: "food-delivery23",
-    storageBucket: "food-delivery23.appspot.com",
-    messagingSenderId: "443235899488",
-    appId: "1:443235899488:web:a4a015aaf500e04b"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
   let options = {
     keyPrefix: "Album/",
     bucket: "awesometzumt",
     region: "ap-south-2",
-    accessKey: "AKIAJPY233YYH4KTMLP",
-    secretKey: "TS39s/q4+i+zk2QNqa7jO/QvlwTGYBEc5Db5ty5vz",
+    accessKey: "",
+    secretKey: "",
     successActionStatus: 201,
   }
 
