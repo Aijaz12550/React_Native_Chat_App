@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^33.0.0",
+    "expo": "^46.0.16",
     "expo-facebook": "^6.0.0",
     "firebase": "^6.3.1",
     "react": "16.6.0",
